@@ -1,0 +1,23 @@
+---
+layout: post
+title:      "Me? Coding??"
+date:       2018-06-01 16:11:58 +0000
+permalink:  me_coding
+---
+
+
+
+Life has a way of throwing curve balls. Life also has a funny way of working things out. Never in a million years would I think I would be here today studying software development. My story begins as a struggling freshman in college trying to figure out what to do with my life as an 18-year-old with the weight of college debt lingering over my subconscious. The pressures to decide what to do was stressful as I went through about 5 different majors, after finally picking one in my junior year. Luckily, I scrapped up enough credits to graduate on time with a degree in art and art history. I loved every second of that school and what I learned. I am grateful for it. Art is my passion and after a brief trial and error period, I landed upon something that I loved to do but was not sure how it was going to translate into my professional career. 
+
+I landed a job working in marketing but after the owner sold the business, I was left with a new curve ball. What do I do now? I moved and began the search all over again. I found a job working as an art instructor at a local children’s museum. It has been such a rewarding experience. But unfortunately, this job doesn’t pay the bills so I was constantly surfing the internet for anything I can do that will give me direction in life. 
+
+Ever hear the phrase ‘everything happens for a reason’? Yeah, this is one of those moments. The museum started to offer a coding class for young girls learning to code. The class is called Girls Who Code. It teaches the computer science skills and concepts to build websites, apps, and robots including loops, variables, conditionals, and functions that form the basis for all programming languages. After seeing this new class offering, I became hooked on this idea of getting into tech. I have had my fair share of job ideas, but I became determined to make this my life and something that I will commit to. As strange as it sounds, a children’s museum class designed for kids inspired me. Heck, I had nothing to lose! 
+
+I have always imagined myself being the mind behind a beautifully crafted design. While the bulk of my experience involves art and marketing, I know that those skills translate well to envisioning the layout, collaborating with team members, marketing a concept to consumers, and ultimately communicating a language of numbers and letters that make up the design. Just as a painting makes an impact on someone, I want to do the very same but through a screen to an audience much larger than one in an art gallery.
+
+I researched online and took a few classes. I even enrolled in graduate school for web design but after finding Flatiron, I knew this was the best way to get to where I wanted to be. The classes I took online, the books I read all further inspired me to pursue this newfound passion.
+
+From moving, finding jobs, leaving jobs, picking up random jobs to support myself, to searching all over the internet for graduate degree programs that would maybe help me find a career, I finally feel like I am where I am supposed to be. Life took me down some wavering paths but I know that everything I have done up until this moment, is the reason why I am here today.
+
+Cheers to life’s curveballs!
+
