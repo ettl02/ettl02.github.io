@@ -1,13 +1,13 @@
 ---
 layout: post
 title:      "Just some Super fun stuff about code"
-date:       2018-07-07 18:29:04 +0000
+date:       2018-07-07 14:29:05 -0400
 permalink:  just_some_super_fun_stuff_about_code
 ---
 
 
 
-This week I am finishing up object oriented ruby with the final hoorah being my CLI Data Gem Project, which I will finish and post about later next week! 
+This week I am finishing up Object Oriented Ruby with the final hoorah being my CLI Data Gem Project, which I will finish and post about later next week! 
 
 So far, I have been going through lessons with a surface level understanding. I think I know something but when it comes time to do the lab, I am left totally lost, leaving me having to go back to the lesson to read over and over. But, this time was different. The lessons within Object Architecture - Inheritance and Super clicked with me. 
 
